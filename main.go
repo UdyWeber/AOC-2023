@@ -10,4 +10,6 @@ func main() {
 	// day_four.SolutionPart2()
 	// day_five.SolutionPart1()
 	// day_five.SolutionPart2()
+	// day_six.SolutionPart1()
+	// day_six.SolutionPart2()
 }
