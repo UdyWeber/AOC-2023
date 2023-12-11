@@ -1,5 +1,7 @@
 package main
 
+import "github.com/UdyWeber/GodventOfCode/day_seven"
+
 func main() {
 	// day_one.Solution()
 	// day_two.SolutionPart1()
@@ -12,4 +14,6 @@ func main() {
 	// day_five.SolutionPart2()
 	// day_six.SolutionPart1()
 	// day_six.SolutionPart2()
+	// day_seven.SolutionPart1()
+	day_seven.SolutionPart2()
 }
